@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **maxboe1993@gmail.com**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
