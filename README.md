@@ -11,7 +11,8 @@
 >
 
 ### 🔗 Connect with me: 
-> <a href="https://linkedin.com/in/maximilian-boehm" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilian-boehm" height="30" width="30" />     </a>
+> <a href="mailto:maxboe1993@gmail.com" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="maximilian-boehm" height="30" width="30" />     </a>
+<a href="https://linkedin.com/in/maximilian-boehm" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilian-boehm" height="28" width="28" />     </a>
 &nbsp;<a href="https://www.leetcode.com/maxboe1993" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maxboe1993" height="30" width="30" /></a>
 
 ### 📚️ Languages and Tools: 
