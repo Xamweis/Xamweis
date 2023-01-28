@@ -4,11 +4,11 @@
 
 ### 🌱 I’m currently advancing in: 
 > **ML, AI, data engineering**
->
+> &nbsp;
 
 ### 📫 How to reach me: 
 > **maxboe1993@gmail.com**
->
+> &nbsp;
 
 ### 🔗 Connect with me: 
 > <a href="https://linkedin.com/in/maximilian-boehm" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilian-boehm" height="30" width="30" />     </a>
