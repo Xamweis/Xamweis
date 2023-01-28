@@ -4,7 +4,7 @@
 
 ### 🌱 I’m currently learning: 
 **ML, AI, data engineering**
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px">
 
 ### 📫 How to reach me: 
 **maxboe1993@gmail.com**
