@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data analyst and engineer from germany!</h3>
 </br>
 
-  <td>hi</td>
+  <table>hi</table>
 ### 🌱 I’m currently learning: 
 > **ML, AI, data engineering**
 
