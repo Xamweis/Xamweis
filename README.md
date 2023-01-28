@@ -2,7 +2,6 @@
 <h3 align="center">A passionate data analyst and engineer from germany!</h3>
 </br>
 
-  <table>hi</table>
 ### 🌱 I’m currently learning: 
 > **ML, AI, data engineering**
 
@@ -15,7 +14,7 @@
 <a href="https://linkedin.com/in/maximilian-boehm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilian-boehm" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/maxboe1993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maxboe1993" height="30" width="40" /></a>
 </p>
-
+  </br>
 #
   
 ### 📚️ Languages and Tools: 
