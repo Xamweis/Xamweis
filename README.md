@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate data analyst and engineer from germany!</h3>
 </br>
-<table>
+
   <td>hi</td>
- </table
 ### 🌱 I’m currently learning: 
 > **ML, AI, data engineering**
 
