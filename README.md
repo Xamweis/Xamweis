@@ -1,19 +1,18 @@
 <h1 align='center'> 👋 Hello world, it's Max! </h1> 
 <h3 align='center'><code> <code> <code> Digital Craftsman (Data | Engineering | ML) </code> </code> </code></h3>
 
-<h5><code> 🌱 I’m currently advancing in: </code></h5>
-
+<code><b> 🌱 I’m currently advancing in: </b></code>
 > **ML, AI, data engineering**
 > &nbsp;
 
-<code> 📫 How to reach me: </code>
+<code><b> 📫 How to reach me: </b></code>
 > **maxboe1993@gmail.com**
 
-<code> 🔗 Connect with me: </code>
+<code><b> 🔗 Connect with me: </b></code>
 > <a href="https://linkedin.com/in/maximilian-boehm" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilian-boehm" height="28" width="28" />     </a>
 &nbsp;<a href="https://www.leetcode.com/maxboe1993" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maxboe1993" height="30" width="30" /></a>
 
-<code> 📚️ Languages and Tools: </code>
+<code><b> 📚️ Languages and Tools: </b></code>
 > <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>     </a> 
 &nbsp;<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="30" height="30"/>     </a> 
 &nbsp;<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/>     </a> 
