@@ -1,6 +1,6 @@
 <h1>👋 Hi, it's Max</h1>
 
-`Digital Craftsman (Data / Engineering / ML)`
+**`Digital Craftsman (Data / Engineering / ML)`**
 
 </br>
 
