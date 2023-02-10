@@ -1,6 +1,6 @@
-<h1>👋 Hi, it's Max</h1>
+<h1>👋 Hi, it's Max <code>**`Digital Craftsman (Data / Engineering / ML)`**</code></h1>
 
-<code>**`Digital Craftsman (Data / Engineering / ML)`**</code>
+
 
 
 ### 🌱 I’m currently advancing in: 
