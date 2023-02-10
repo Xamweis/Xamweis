@@ -1,8 +1,6 @@
-<p align="right">
 # 👋 Hi, it's Max
 
 **`Digital Craftsman (Data / Engineering / ML)`**
-</p>
 
 
 ### 🌱 I’m currently advancing in: 
