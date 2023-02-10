@@ -2,8 +2,6 @@
 
 **`Digital Craftsman (Data / Engineering / ML)`**
 
-</br>
-
 ### 🌱 I’m currently advancing in: 
 > **ML, AI, data engineering**
 > &nbsp;
