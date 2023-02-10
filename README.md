@@ -1,8 +1,5 @@
 <code><h1>👋 Hi, it's Max! </h1><b>Digital Craftsman (Data / Engineering / ML)</b></code>
 
-
-
-
 <code> 🌱 I’m currently advancing in: </code>
 > **ML, AI, data engineering**
 > &nbsp;
