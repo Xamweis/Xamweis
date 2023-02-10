@@ -1,4 +1,4 @@
-<code>👋 Hi, it's Max <b>Digital Craftsman (Data / Engineering / ML)</b></code>
+<code>👋 Hi, it's Max! <b>Digital Craftsman (Data / Engineering / ML)</b></code>
 
 
 
