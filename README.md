@@ -1,7 +1,7 @@
 <h1 align='center'> 👋 Hello world, it's Max! </h1> 
 <h3 align='center'><code> <code> <code> Digital Craftsman (Data | Engineering | ML) </code> </code> </code></h3>
 
-... with automotive background, curious about tech, process automation, machine learning and user psychology. I consider myself able to adapt rapidly to any tech stack and am pursuing continuous personal and professional growth!
+... with an automotive background, curious about tech, process automation, machine learning and user psychology. I consider myself able to adapt rapidly to any tech stack and am pursuing continuous personal and professional growth!
 
 <h4><code> 🌱 I’m currently advancing in: </code></h4>
 
