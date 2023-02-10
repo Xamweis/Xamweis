@@ -1,5 +1,5 @@
-<p align="right">text
-<h1>👋 Hi, it's Max</h1>
+<p align="right">
+# 👋 Hi, it's Max
 
 **`Digital Craftsman (Data / Engineering / ML)`**
 </p>
