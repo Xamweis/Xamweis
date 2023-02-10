@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate data analyst and engineer from germany!</h3>
+<h3 align="center">digital crafstman (Data / Engineering)</h3>
 </br>
 
 ### 🌱 I’m currently advancing in: 
