@@ -1,4 +1,4 @@
-<p style="font-size:30px"><code>👋 Hi, it's Max <b>Digital Craftsman (Data / Engineering / ML)</b></code></p>
+<code><p style="font-size:30px">👋 Hi, it's Max <b>Digital Craftsman (Data / Engineering / ML)</b></p></code>
 
 
 
