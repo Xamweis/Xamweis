@@ -1,4 +1,4 @@
-<h1><code>👋 Hello world, it's Max! </code></h1> 
+<h1 align='center'> 👋 Hello world, it's Max! </h1> 
 <h3 align='center'><code> <code> <code> Digital Craftsman (Data | Engineering | ML) </code> </code> </code></h3>
 
 <code> 🌱 I’m currently advancing in: </code>
