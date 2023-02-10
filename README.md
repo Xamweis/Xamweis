@@ -1,6 +1,9 @@
+<p align="right">text
 <h1>👋 Hi, it's Max</h1>
 
 **`Digital Craftsman (Data / Engineering / ML)`**
+</p>
+
 
 ### 🌱 I’m currently advancing in: 
 > **ML, AI, data engineering**
