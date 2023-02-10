@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, it's Max</h1>
-<h3 align="center">Digital Craftsman (Data / Engineering)</h3>
+<h4 align="center">Digital Craftsman (Data / Engineering / ML)</h3>
 </br>
 
 ### 🌱 I’m currently advancing in: 
