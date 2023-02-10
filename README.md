@@ -1,4 +1,4 @@
-<code><h1>👋 Hello world, it's Max! </h1> <b>Digital Craftsman (Data / Engineering / ML)</b></code>
+<h1><code>👋 Hello world, it's Max! </code></h1> <code><b>Digital Craftsman (Data / Engineering / ML)</b></code>
 
 <code> 🌱 I’m currently advancing in: </code>
 > **ML, AI, data engineering**
