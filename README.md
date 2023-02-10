@@ -3,7 +3,7 @@
 
 
 
-### 🌱 I’m currently advancing in: 
+<code> 🌱 I’m currently advancing in: </code>
 > **ML, AI, data engineering**
 > &nbsp;
 
