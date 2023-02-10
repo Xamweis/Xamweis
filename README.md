@@ -7,13 +7,16 @@
 > &nbsp;
 
 <h4><code> 📫 How to reach me: </code></h4>
+
 > **maxboe1993@gmail.com**
 
 <h4><code> 🔗 Connect with me: </code></h4>
+
 > <a href="https://linkedin.com/in/maximilian-boehm" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilian-boehm" height="28" width="28" />     </a>
 &nbsp;<a href="https://www.leetcode.com/maxboe1993" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maxboe1993" height="30" width="30" /></a>
 
 <h4><code> 📚️ Languages and Tools: </code></h4>
+
 > <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>     </a> 
 &nbsp;<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="30" height="30"/>     </a> 
 &nbsp;<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/>     </a> 
