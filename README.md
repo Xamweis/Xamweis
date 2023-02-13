@@ -15,8 +15,8 @@ considering myself able to adapt rapidly to any tech stack and pursuing continuo
 
 <h4><code> 🔗 Connect with me: </code></h4>
 
-> <a href="https://linkedin.com/in/maximilian-boehm" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilian-boehm" height="28" width="28" />     </a>
-&nbsp;<a href="https://www.leetcode.com/maxboe1993" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maxboe1993" height="30" width="30" /></a>
+> <a href="https://linkedin.com/in/maximilian-boehm" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilian-boehm" height="25" width="25" />     </a>
+&nbsp;<a href="https://www.leetcode.com/maxboe1993" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maxboe1993" height="27" width="27" /></a>
 
 <h4><code> 📚️ Languages and Tools: </code></h4>
 
