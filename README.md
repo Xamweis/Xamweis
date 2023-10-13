@@ -17,6 +17,7 @@
 > <a href="https://linkedin.com/in/maximilian-boehm" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilian-boehm" height="25" width="25" />     </a>
 &nbsp;<a href="https://www.leetcode.com/maxboe1993" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maxboe1993" height="27" width="27" /></a>
 
+<!---
 <h4><code> 📚️ Languages and Tools: </code></h4>
 
 > <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>     </a> 
@@ -40,3 +41,4 @@
 &nbsp;<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="30" height="30"/>     </a> 
 &nbsp;<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/>     </a> 
 </p>
+--->
